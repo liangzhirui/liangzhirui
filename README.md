@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 <!-- <img height="120" src="https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/4.png" /> -->
 
-<!-- [![sss's github stats](https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <table width="800px">
 <tr>
