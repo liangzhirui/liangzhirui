@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/JS-banana/b4b79e0deb0164edaae772ecbc5bd8bc" target="_blank">Weekly Development Breakdown</a>
+#### 🏊‍♂️ <a href="https://gist.github.com/liangzhirui/caf82e664cf533a9db730aa7552b6a17" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time starts -->
 
