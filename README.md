@@ -68,7 +68,7 @@ TypeScript 18 mins        █▍░░░░░░░░░░░░░░░░
   />
   <img
   width="460"
-  src="https://github-readme-stats.vercel.app/api?username=Aaunag&show_icons=true&&theme=radical&layout=compact"
+  src="https://github-readme-stats.vercel.app/api?username=Aaunag Hazra&show_icons=true&&theme=radical&layout=compact"
   />
 </p>
 
