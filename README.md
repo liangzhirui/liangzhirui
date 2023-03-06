@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=gruvbox)
+!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=gruvbox)
 
 
 ![https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>](https://img.shields.io/badge/python-3.9-orange)
