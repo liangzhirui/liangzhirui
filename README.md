@@ -8,7 +8,7 @@
 
 [![visitor](https://visitor-badge.glitch.me/badge?page_id=js-banana.js-banana)](https://github.com/liangzhirui)
 [![LaOwwO](https://img.shields.io/badge/Discord-LaOwwO-blue)](http://discordapp.com/users/724158072611799092)
-[![企鹅](https://img.shields.io/badge/blog-%E5%B0%8F%E5%B8%85%E3%81%AE%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-orange)](https://qm.qq.com/cgi-bin/qm/qr?k=aJB87Sqj_EnhXwGGpwst9_9uU01DHfbC&noverify=0)
+[![企鹅](https://img.shields.io/badge/%E4%BC%81%E9%B9%85-%E5%94%90%E6%82%A0%E6%82%A0-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=aJB87Sqj_EnhXwGGpwst9_9uU01DHfbC&noverify=0)
 [![前端小帅](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%B8%85-brightgreen)](https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/1.jpg)
 
 <!-- :sunny: I'm currently learning and working on... -->
